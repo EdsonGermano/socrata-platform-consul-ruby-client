@@ -39,7 +39,7 @@ Run `bundle exec rake install`.
    rubygems.org]" https://rubygems.org/api/v1/api_key.json`
 1. Place api key in ~/.gem/credentials. File should look like:
 
-   /*---/*
+   \-\-\-
     :rubygems_api_key: [api key you downloaded]
 
 1. At root of this repo and when it is clean with no unchecked in changes, run `bundle exec rake release`

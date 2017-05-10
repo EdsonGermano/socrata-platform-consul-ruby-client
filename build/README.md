@@ -42,7 +42,6 @@ Run `bundle exec rake install`.
    ---
    :rubygems_api_key: [api key you downloaded]
    ```
-
 1. At root of this repo and when it is clean with no unchecked in changes, run `bundle exec rake release`
 
 ## Contributing
